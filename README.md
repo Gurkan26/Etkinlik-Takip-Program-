@@ -1,5 +1,5 @@
-# Etkinlik-Takip-Program-
-Etkinlik Takip Programı
+# QR Kod Okuma Sistemli Etkinlik-Takip-Program-
+QR Kod Okuma Sistemli Etkinlik Takip Programı
 
 Tanıtım: Projemin ismi etkinlik takip programı.
 Dünyamızda düzenlenen; seminerler, toplantılar gibi katılımın oldukça yüksek olduğu organizasyonlarda oluşan yoğunluk ve sıkıntılar sonucunda katılımcı kayıt işlemleri bir hayli uzuyor.
@@ -18,4 +18,5 @@ ve bölüm tek satır halinde yazılmalı aksi taktirde okunan veriyi veritaban�
 
 
 Gürkan Şentürk - 180542019
-www.gurkansenturk.com
+Web Sitem: www.gurkansenturk.com 
+Linkedln: https://www.linkedin.com/in/gurkansenturk/
