@@ -6,7 +6,7 @@ Dünyamızda düzenlenen; seminerler, toplantılar gibi katılımın oldukça y�
 Benim geliştirdiğim bu sistem sayesinde ise bu sorun ortadan kalkacak. Girişte QR kod okuma sistemiyle katılımcılar öncenden kendilerine gönderilen kodlar okutarak sisteme girişlerini yapabilecekler.
 Bu sayede oluşan yoğunluk minimuma inmiş olacak 
 
-
+---------------------------
 -----------------------------------------------------------------------------*--------------------------------------------------------------------------------
 Oluşturduğum sistemde QR kod okuma kısmında kamerayı varsayılan kamera olarak alıyor eğer bilgisayarınızda ki 
 kameraya harici erişim sağlanamıyorsa onu açmanız gerek.
@@ -14,9 +14,10 @@ Ayrıca yine QR kod okuma kısmında oluşturulan QR kod şu şekilde olmalı bo
 dahil olarak "id ad soyad bölüm" katılımcının iki adı varsa tek adı yazılmalı
 ve bölüm tek satır halinde yazılmalı aksi taktirde okunan veriyi veritabanına atmayacaktır.
  program boşluklara göre atama işlemi yapıyor. 
-
-
-
+ 
+Programda etkinlik ve kullanıcı silme gibi kritik işlemleri sadece üst yönetici yapabilir. Bu yüzden silme formunda giden butonları sadece üst yönetici çalıştırabilecek.Şimdi buraya normal bir kullanıcı hesabı bırakacağım. Email yoluyla üstyönetici bilgilerini size yollayacağım.
+kullanıcıadı: gurkan
+parola: 135792468
 Gürkan Şentürk - 180542019
 Web Sitem: www.gurkansenturk.com 
 Linkedln: https://www.linkedin.com/in/gurkansenturk/
